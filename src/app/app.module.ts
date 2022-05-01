@@ -5,7 +5,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 
 @NgModule({
-  declarations: [//All elements (component, directive,...) we need this module except module
+  declarations: [//All elements (component, directive,...) we need in this module except module
     AppComponent
   ],
   imports: [// all module we need in this module
